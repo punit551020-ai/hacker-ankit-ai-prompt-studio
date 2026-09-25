@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "title": "1980s Retro Prompt 01",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 2,
+    "title": "1980s Retro Prompt 02",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 3,
+    "title": "1980s Retro Prompt 03",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 4,
+    "title": "1980s Retro Prompt 04",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 5,
+    "title": "1980s Retro Prompt 05",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 6,
+    "title": "Gaming Prompt 06",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 7,
+    "title": "Gaming Prompt 07",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 8,
+    "title": "Gaming Prompt 08",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 9,
+    "title": "Gaming Prompt 09",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 10,
+    "title": "Gaming Prompt 10",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 11,
+    "title": "Cyberpunk Prompt 11",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 12,
+    "title": "Cyberpunk Prompt 12",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 13,
+    "title": "Cyberpunk Prompt 13",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 14,
+    "title": "Cyberpunk Prompt 14",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 15,
+    "title": "Cyberpunk Prompt 15",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 16,
+    "title": "Fantasy Prompt 16",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 17,
+    "title": "Fantasy Prompt 17",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 18,
+    "title": "Fantasy Prompt 18",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 19,
+    "title": "Fantasy Prompt 19",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 20,
+    "title": "Fantasy Prompt 20",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 21,
+    "title": "Horror Prompt 21",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 22,
+    "title": "Horror Prompt 22",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 23,
+    "title": "Horror Prompt 23",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 24,
+    "title": "Horror Prompt 24",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 25,
+    "title": "Horror Prompt 25",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 26,
+    "title": "Nature Prompt 26",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 27,
+    "title": "Nature Prompt 27",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 28,
+    "title": "Nature Prompt 28",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 29,
+    "title": "Nature Prompt 29",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 30,
+    "title": "Nature Prompt 30",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 31,
+    "title": "Portraits Prompt 31",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 32,
+    "title": "Portraits Prompt 32",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 33,
+    "title": "Portraits Prompt 33",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 34,
+    "title": "Portraits Prompt 34",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 35,
+    "title": "Portraits Prompt 35",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 36,
+    "title": "Cars Prompt 36",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 37,
+    "title": "Cars Prompt 37",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 38,
+    "title": "Cars Prompt 38",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 39,
+    "title": "Cars Prompt 39",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 40,
+    "title": "Cars Prompt 40",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 41,
+    "title": "Architecture Prompt 41",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 42,
+    "title": "Architecture Prompt 42",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 43,
+    "title": "Architecture Prompt 43",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 44,
+    "title": "Architecture Prompt 44",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 45,
+    "title": "Architecture Prompt 45",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 46,
+    "title": "Space Prompt 46",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 47,
+    "title": "Space Prompt 47",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 48,
+    "title": "Space Prompt 48",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 49,
+    "title": "Space Prompt 49",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 50,
+    "title": "Space Prompt 50",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 51,
+    "title": "Trending Prompt 01",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 52,
+    "title": "Trending Prompt 02",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 53,
+    "title": "Trending Prompt 03",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 54,
+    "title": "Trending Prompt 04",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 55,
+    "title": "Trending Prompt 05",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 56,
+    "title": "1980s Retro Prompt 06",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 57,
+    "title": "1980s Retro Prompt 07",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 58,
+    "title": "1980s Retro Prompt 08",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 59,
+    "title": "1980s Retro Prompt 09",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 60,
+    "title": "1980s Retro Prompt 10",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 61,
+    "title": "Gaming Prompt 11",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 62,
+    "title": "Gaming Prompt 12",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 63,
+    "title": "Gaming Prompt 13",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 64,
+    "title": "Gaming Prompt 14",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 65,
+    "title": "Gaming Prompt 15",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 66,
+    "title": "Cyberpunk Prompt 16",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 67,
+    "title": "Cyberpunk Prompt 17",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 68,
+    "title": "Cyberpunk Prompt 18",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 69,
+    "title": "Cyberpunk Prompt 19",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 70,
+    "title": "Cyberpunk Prompt 20",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 71,
+    "title": "Fantasy Prompt 21",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 72,
+    "title": "Fantasy Prompt 22",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 73,
+    "title": "Fantasy Prompt 23",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 74,
+    "title": "Fantasy Prompt 24",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 75,
+    "title": "Fantasy Prompt 25",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 76,
+    "title": "Horror Prompt 26",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 77,
+    "title": "Horror Prompt 27",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 78,
+    "title": "Horror Prompt 28",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 79,
+    "title": "Horror Prompt 29",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 80,
+    "title": "Horror Prompt 30",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 81,
+    "title": "Nature Prompt 31",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 82,
+    "title": "Nature Prompt 32",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 83,
+    "title": "Nature Prompt 33",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 84,
+    "title": "Nature Prompt 34",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 85,
+    "title": "Nature Prompt 35",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 86,
+    "title": "Portraits Prompt 36",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 87,
+    "title": "Portraits Prompt 37",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 88,
+    "title": "Portraits Prompt 38",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 89,
+    "title": "Portraits Prompt 39",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 90,
+    "title": "Portraits Prompt 40",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 91,
+    "title": "Cars Prompt 41",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 92,
+    "title": "Cars Prompt 42",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 93,
+    "title": "Cars Prompt 43",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 94,
+    "title": "Cars Prompt 44",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 95,
+    "title": "Cars Prompt 45",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 96,
+    "title": "Architecture Prompt 46",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 97,
+    "title": "Architecture Prompt 47",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 98,
+    "title": "Architecture Prompt 48",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 99,
+    "title": "Architecture Prompt 49",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 100,
+    "title": "Architecture Prompt 50",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 101,
+    "title": "Space Prompt 01",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 102,
+    "title": "Space Prompt 02",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 103,
+    "title": "Space Prompt 03",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 104,
+    "title": "Space Prompt 04",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 105,
+    "title": "Space Prompt 05",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 106,
+    "title": "Trending Prompt 06",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 107,
+    "title": "Trending Prompt 07",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 108,
+    "title": "Trending Prompt 08",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 109,
+    "title": "Trending Prompt 09",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 110,
+    "title": "Trending Prompt 10",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 111,
+    "title": "1980s Retro Prompt 11",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 112,
+    "title": "1980s Retro Prompt 12",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 113,
+    "title": "1980s Retro Prompt 13",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 114,
+    "title": "1980s Retro Prompt 14",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 115,
+    "title": "1980s Retro Prompt 15",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 116,
+    "title": "Gaming Prompt 16",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 117,
+    "title": "Gaming Prompt 17",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 118,
+    "title": "Gaming Prompt 18",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 119,
+    "title": "Gaming Prompt 19",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 120,
+    "title": "Gaming Prompt 20",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 121,
+    "title": "Cyberpunk Prompt 21",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 122,
+    "title": "Cyberpunk Prompt 22",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 123,
+    "title": "Cyberpunk Prompt 23",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 124,
+    "title": "Cyberpunk Prompt 24",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 125,
+    "title": "Cyberpunk Prompt 25",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 126,
+    "title": "Fantasy Prompt 26",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 127,
+    "title": "Fantasy Prompt 27",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 128,
+    "title": "Fantasy Prompt 28",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 129,
+    "title": "Fantasy Prompt 29",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 130,
+    "title": "Fantasy Prompt 30",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 131,
+    "title": "Horror Prompt 31",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 132,
+    "title": "Horror Prompt 32",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 133,
+    "title": "Horror Prompt 33",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 134,
+    "title": "Horror Prompt 34",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 135,
+    "title": "Horror Prompt 35",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 136,
+    "title": "Nature Prompt 36",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 137,
+    "title": "Nature Prompt 37",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 138,
+    "title": "Nature Prompt 38",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 139,
+    "title": "Nature Prompt 39",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 140,
+    "title": "Nature Prompt 40",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 141,
+    "title": "Portraits Prompt 41",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 142,
+    "title": "Portraits Prompt 42",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 143,
+    "title": "Portraits Prompt 43",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 144,
+    "title": "Portraits Prompt 44",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 145,
+    "title": "Portraits Prompt 45",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 146,
+    "title": "Cars Prompt 46",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 147,
+    "title": "Cars Prompt 47",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 148,
+    "title": "Cars Prompt 48",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 149,
+    "title": "Cars Prompt 49",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 150,
+    "title": "Cars Prompt 50",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 151,
+    "title": "Architecture Prompt 01",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 152,
+    "title": "Architecture Prompt 02",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 153,
+    "title": "Architecture Prompt 03",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 154,
+    "title": "Architecture Prompt 04",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 155,
+    "title": "Architecture Prompt 05",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 156,
+    "title": "Space Prompt 06",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 157,
+    "title": "Space Prompt 07",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 158,
+    "title": "Space Prompt 08",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 159,
+    "title": "Space Prompt 09",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 160,
+    "title": "Space Prompt 10",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 161,
+    "title": "Trending Prompt 11",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 162,
+    "title": "Trending Prompt 12",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 163,
+    "title": "Trending Prompt 13",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 164,
+    "title": "Trending Prompt 14",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 165,
+    "title": "Trending Prompt 15",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 166,
+    "title": "1980s Retro Prompt 16",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 167,
+    "title": "1980s Retro Prompt 17",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 168,
+    "title": "1980s Retro Prompt 18",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 169,
+    "title": "1980s Retro Prompt 19",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 170,
+    "title": "1980s Retro Prompt 20",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 171,
+    "title": "Gaming Prompt 21",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 172,
+    "title": "Gaming Prompt 22",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 173,
+    "title": "Gaming Prompt 23",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 174,
+    "title": "Gaming Prompt 24",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 175,
+    "title": "Gaming Prompt 25",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 176,
+    "title": "Cyberpunk Prompt 26",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 177,
+    "title": "Cyberpunk Prompt 27",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 178,
+    "title": "Cyberpunk Prompt 28",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 179,
+    "title": "Cyberpunk Prompt 29",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 180,
+    "title": "Cyberpunk Prompt 30",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 181,
+    "title": "Fantasy Prompt 31",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 182,
+    "title": "Fantasy Prompt 32",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 183,
+    "title": "Fantasy Prompt 33",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 184,
+    "title": "Fantasy Prompt 34",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 185,
+    "title": "Fantasy Prompt 35",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 186,
+    "title": "Horror Prompt 36",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 187,
+    "title": "Horror Prompt 37",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 188,
+    "title": "Horror Prompt 38",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 189,
+    "title": "Horror Prompt 39",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 190,
+    "title": "Horror Prompt 40",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 191,
+    "title": "Nature Prompt 41",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 192,
+    "title": "Nature Prompt 42",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 193,
+    "title": "Nature Prompt 43",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 194,
+    "title": "Nature Prompt 44",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 195,
+    "title": "Nature Prompt 45",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 196,
+    "title": "Portraits Prompt 46",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 197,
+    "title": "Portraits Prompt 47",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 198,
+    "title": "Portraits Prompt 48",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 199,
+    "title": "Portraits Prompt 49",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 200,
+    "title": "Portraits Prompt 50",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 201,
+    "title": "Cars Prompt 01",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 202,
+    "title": "Cars Prompt 02",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 203,
+    "title": "Cars Prompt 03",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 204,
+    "title": "Cars Prompt 04",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 205,
+    "title": "Cars Prompt 05",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 206,
+    "title": "Architecture Prompt 06",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 207,
+    "title": "Architecture Prompt 07",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 208,
+    "title": "Architecture Prompt 08",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 209,
+    "title": "Architecture Prompt 09",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 210,
+    "title": "Architecture Prompt 10",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 211,
+    "title": "Space Prompt 11",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 212,
+    "title": "Space Prompt 12",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 213,
+    "title": "Space Prompt 13",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 214,
+    "title": "Space Prompt 14",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 215,
+    "title": "Space Prompt 15",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 216,
+    "title": "Trending Prompt 16",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 217,
+    "title": "Trending Prompt 17",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 218,
+    "title": "Trending Prompt 18",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 219,
+    "title": "Trending Prompt 19",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 220,
+    "title": "Trending Prompt 20",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 221,
+    "title": "1980s Retro Prompt 21",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 222,
+    "title": "1980s Retro Prompt 22",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 223,
+    "title": "1980s Retro Prompt 23",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 224,
+    "title": "1980s Retro Prompt 24",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 225,
+    "title": "1980s Retro Prompt 25",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 226,
+    "title": "Gaming Prompt 26",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 227,
+    "title": "Gaming Prompt 27",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 228,
+    "title": "Gaming Prompt 28",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 229,
+    "title": "Gaming Prompt 29",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 230,
+    "title": "Gaming Prompt 30",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 231,
+    "title": "Cyberpunk Prompt 31",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 232,
+    "title": "Cyberpunk Prompt 32",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 233,
+    "title": "Cyberpunk Prompt 33",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 234,
+    "title": "Cyberpunk Prompt 34",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 235,
+    "title": "Cyberpunk Prompt 35",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 236,
+    "title": "Fantasy Prompt 36",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 237,
+    "title": "Fantasy Prompt 37",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 238,
+    "title": "Fantasy Prompt 38",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 239,
+    "title": "Fantasy Prompt 39",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 240,
+    "title": "Fantasy Prompt 40",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 241,
+    "title": "Horror Prompt 41",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 242,
+    "title": "Horror Prompt 42",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 243,
+    "title": "Horror Prompt 43",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 244,
+    "title": "Horror Prompt 44",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 245,
+    "title": "Horror Prompt 45",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 246,
+    "title": "Nature Prompt 46",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 247,
+    "title": "Nature Prompt 47",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 248,
+    "title": "Nature Prompt 48",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 249,
+    "title": "Nature Prompt 49",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 250,
+    "title": "Nature Prompt 50",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 251,
+    "title": "Portraits Prompt 01",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 252,
+    "title": "Portraits Prompt 02",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 253,
+    "title": "Portraits Prompt 03",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 254,
+    "title": "Portraits Prompt 04",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 255,
+    "title": "Portraits Prompt 05",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 256,
+    "title": "Cars Prompt 06",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 257,
+    "title": "Cars Prompt 07",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 258,
+    "title": "Cars Prompt 08",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 259,
+    "title": "Cars Prompt 09",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 260,
+    "title": "Cars Prompt 10",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 261,
+    "title": "Architecture Prompt 11",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 262,
+    "title": "Architecture Prompt 12",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 263,
+    "title": "Architecture Prompt 13",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 264,
+    "title": "Architecture Prompt 14",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 265,
+    "title": "Architecture Prompt 15",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 266,
+    "title": "Space Prompt 16",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 267,
+    "title": "Space Prompt 17",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 268,
+    "title": "Space Prompt 18",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 269,
+    "title": "Space Prompt 19",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 270,
+    "title": "Space Prompt 20",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 271,
+    "title": "Trending Prompt 21",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 272,
+    "title": "Trending Prompt 22",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 273,
+    "title": "Trending Prompt 23",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 274,
+    "title": "Trending Prompt 24",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 275,
+    "title": "Trending Prompt 25",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 276,
+    "title": "1980s Retro Prompt 26",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 277,
+    "title": "1980s Retro Prompt 27",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 278,
+    "title": "1980s Retro Prompt 28",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 279,
+    "title": "1980s Retro Prompt 29",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 280,
+    "title": "1980s Retro Prompt 30",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 281,
+    "title": "Gaming Prompt 31",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 282,
+    "title": "Gaming Prompt 32",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 283,
+    "title": "Gaming Prompt 33",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 284,
+    "title": "Gaming Prompt 34",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 285,
+    "title": "Gaming Prompt 35",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 286,
+    "title": "Cyberpunk Prompt 36",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 287,
+    "title": "Cyberpunk Prompt 37",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 288,
+    "title": "Cyberpunk Prompt 38",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 289,
+    "title": "Cyberpunk Prompt 39",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 290,
+    "title": "Cyberpunk Prompt 40",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 291,
+    "title": "Fantasy Prompt 41",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 292,
+    "title": "Fantasy Prompt 42",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 293,
+    "title": "Fantasy Prompt 43",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 294,
+    "title": "Fantasy Prompt 44",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 295,
+    "title": "Fantasy Prompt 45",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 296,
+    "title": "Horror Prompt 46",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 297,
+    "title": "Horror Prompt 47",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 298,
+    "title": "Horror Prompt 48",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 299,
+    "title": "Horror Prompt 49",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 300,
+    "title": "Horror Prompt 50",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 301,
+    "title": "Nature Prompt 01",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 302,
+    "title": "Nature Prompt 02",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 303,
+    "title": "Nature Prompt 03",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 304,
+    "title": "Nature Prompt 04",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 305,
+    "title": "Nature Prompt 05",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 306,
+    "title": "Portraits Prompt 06",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 307,
+    "title": "Portraits Prompt 07",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 308,
+    "title": "Portraits Prompt 08",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 309,
+    "title": "Portraits Prompt 09",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 310,
+    "title": "Portraits Prompt 10",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 311,
+    "title": "Cars Prompt 11",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 312,
+    "title": "Cars Prompt 12",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 313,
+    "title": "Cars Prompt 13",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 314,
+    "title": "Cars Prompt 14",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 315,
+    "title": "Cars Prompt 15",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 316,
+    "title": "Architecture Prompt 16",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 317,
+    "title": "Architecture Prompt 17",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 318,
+    "title": "Architecture Prompt 18",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 319,
+    "title": "Architecture Prompt 19",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 320,
+    "title": "Architecture Prompt 20",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 321,
+    "title": "Space Prompt 21",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 322,
+    "title": "Space Prompt 22",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 323,
+    "title": "Space Prompt 23",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 324,
+    "title": "Space Prompt 24",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 325,
+    "title": "Space Prompt 25",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 326,
+    "title": "Trending Prompt 26",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 327,
+    "title": "Trending Prompt 27",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 328,
+    "title": "Trending Prompt 28",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 329,
+    "title": "Trending Prompt 29",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 330,
+    "title": "Trending Prompt 30",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 331,
+    "title": "1980s Retro Prompt 31",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 332,
+    "title": "1980s Retro Prompt 32",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 333,
+    "title": "1980s Retro Prompt 33",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 334,
+    "title": "1980s Retro Prompt 34",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 335,
+    "title": "1980s Retro Prompt 35",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 336,
+    "title": "Gaming Prompt 36",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 337,
+    "title": "Gaming Prompt 37",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 338,
+    "title": "Gaming Prompt 38",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 339,
+    "title": "Gaming Prompt 39",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 340,
+    "title": "Gaming Prompt 40",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 341,
+    "title": "Cyberpunk Prompt 41",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 342,
+    "title": "Cyberpunk Prompt 42",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 343,
+    "title": "Cyberpunk Prompt 43",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 344,
+    "title": "Cyberpunk Prompt 44",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 345,
+    "title": "Cyberpunk Prompt 45",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 346,
+    "title": "Fantasy Prompt 46",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 347,
+    "title": "Fantasy Prompt 47",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 348,
+    "title": "Fantasy Prompt 48",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 349,
+    "title": "Fantasy Prompt 49",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 350,
+    "title": "Fantasy Prompt 50",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 351,
+    "title": "Horror Prompt 01",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 352,
+    "title": "Horror Prompt 02",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 353,
+    "title": "Horror Prompt 03",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 354,
+    "title": "Horror Prompt 04",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 355,
+    "title": "Horror Prompt 05",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 356,
+    "title": "Nature Prompt 06",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 357,
+    "title": "Nature Prompt 07",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 358,
+    "title": "Nature Prompt 08",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 359,
+    "title": "Nature Prompt 09",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 360,
+    "title": "Nature Prompt 10",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 361,
+    "title": "Portraits Prompt 11",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 362,
+    "title": "Portraits Prompt 12",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 363,
+    "title": "Portraits Prompt 13",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 364,
+    "title": "Portraits Prompt 14",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 365,
+    "title": "Portraits Prompt 15",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 366,
+    "title": "Cars Prompt 16",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 367,
+    "title": "Cars Prompt 17",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 368,
+    "title": "Cars Prompt 18",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 369,
+    "title": "Cars Prompt 19",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 370,
+    "title": "Cars Prompt 20",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 371,
+    "title": "Architecture Prompt 21",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 372,
+    "title": "Architecture Prompt 22",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 373,
+    "title": "Architecture Prompt 23",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 374,
+    "title": "Architecture Prompt 24",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 375,
+    "title": "Architecture Prompt 25",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 376,
+    "title": "Space Prompt 26",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 377,
+    "title": "Space Prompt 27",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 378,
+    "title": "Space Prompt 28",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 379,
+    "title": "Space Prompt 29",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 380,
+    "title": "Space Prompt 30",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 381,
+    "title": "Trending Prompt 31",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 382,
+    "title": "Trending Prompt 32",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 383,
+    "title": "Trending Prompt 33",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 384,
+    "title": "Trending Prompt 34",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 385,
+    "title": "Trending Prompt 35",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 386,
+    "title": "1980s Retro Prompt 36",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 387,
+    "title": "1980s Retro Prompt 37",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 388,
+    "title": "1980s Retro Prompt 38",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 389,
+    "title": "1980s Retro Prompt 39",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 390,
+    "title": "1980s Retro Prompt 40",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 391,
+    "title": "Gaming Prompt 41",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 392,
+    "title": "Gaming Prompt 42",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 393,
+    "title": "Gaming Prompt 43",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 394,
+    "title": "Gaming Prompt 44",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 395,
+    "title": "Gaming Prompt 45",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 396,
+    "title": "Cyberpunk Prompt 46",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 397,
+    "title": "Cyberpunk Prompt 47",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 398,
+    "title": "Cyberpunk Prompt 48",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 399,
+    "title": "Cyberpunk Prompt 49",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 400,
+    "title": "Cyberpunk Prompt 50",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 401,
+    "title": "Fantasy Prompt 01",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 402,
+    "title": "Fantasy Prompt 02",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 403,
+    "title": "Fantasy Prompt 03",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 404,
+    "title": "Fantasy Prompt 04",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 405,
+    "title": "Fantasy Prompt 05",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 406,
+    "title": "Horror Prompt 06",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 407,
+    "title": "Horror Prompt 07",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 408,
+    "title": "Horror Prompt 08",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 409,
+    "title": "Horror Prompt 09",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 410,
+    "title": "Horror Prompt 10",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 411,
+    "title": "Nature Prompt 11",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 412,
+    "title": "Nature Prompt 12",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 413,
+    "title": "Nature Prompt 13",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 414,
+    "title": "Nature Prompt 14",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 415,
+    "title": "Nature Prompt 15",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 416,
+    "title": "Portraits Prompt 16",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 417,
+    "title": "Portraits Prompt 17",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 418,
+    "title": "Portraits Prompt 18",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 419,
+    "title": "Portraits Prompt 19",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 420,
+    "title": "Portraits Prompt 20",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 421,
+    "title": "Cars Prompt 21",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 422,
+    "title": "Cars Prompt 22",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 423,
+    "title": "Cars Prompt 23",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 424,
+    "title": "Cars Prompt 24",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 425,
+    "title": "Cars Prompt 25",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 426,
+    "title": "Architecture Prompt 26",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 427,
+    "title": "Architecture Prompt 27",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 428,
+    "title": "Architecture Prompt 28",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 429,
+    "title": "Architecture Prompt 29",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 430,
+    "title": "Architecture Prompt 30",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 431,
+    "title": "Space Prompt 31",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 432,
+    "title": "Space Prompt 32",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 433,
+    "title": "Space Prompt 33",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 434,
+    "title": "Space Prompt 34",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 435,
+    "title": "Space Prompt 35",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 436,
+    "title": "Trending Prompt 36",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 437,
+    "title": "Trending Prompt 37",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 438,
+    "title": "Trending Prompt 38",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 439,
+    "title": "Trending Prompt 39",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 440,
+    "title": "Trending Prompt 40",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 441,
+    "title": "1980s Retro Prompt 41",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 442,
+    "title": "1980s Retro Prompt 42",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 443,
+    "title": "1980s Retro Prompt 43",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 444,
+    "title": "1980s Retro Prompt 44",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 445,
+    "title": "1980s Retro Prompt 45",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 446,
+    "title": "Gaming Prompt 46",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 447,
+    "title": "Gaming Prompt 47",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 448,
+    "title": "Gaming Prompt 48",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 449,
+    "title": "Gaming Prompt 49",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 450,
+    "title": "Gaming Prompt 50",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 451,
+    "title": "Cyberpunk Prompt 01",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 452,
+    "title": "Cyberpunk Prompt 02",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 453,
+    "title": "Cyberpunk Prompt 03",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 454,
+    "title": "Cyberpunk Prompt 04",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 455,
+    "title": "Cyberpunk Prompt 05",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 456,
+    "title": "Fantasy Prompt 06",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 457,
+    "title": "Fantasy Prompt 07",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 458,
+    "title": "Fantasy Prompt 08",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 459,
+    "title": "Fantasy Prompt 09",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 460,
+    "title": "Fantasy Prompt 10",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 461,
+    "title": "Horror Prompt 11",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 462,
+    "title": "Horror Prompt 12",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 463,
+    "title": "Horror Prompt 13",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 464,
+    "title": "Horror Prompt 14",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 465,
+    "title": "Horror Prompt 15",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 466,
+    "title": "Nature Prompt 16",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 467,
+    "title": "Nature Prompt 17",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 468,
+    "title": "Nature Prompt 18",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 469,
+    "title": "Nature Prompt 19",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 470,
+    "title": "Nature Prompt 20",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 471,
+    "title": "Portraits Prompt 21",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 472,
+    "title": "Portraits Prompt 22",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 473,
+    "title": "Portraits Prompt 23",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 474,
+    "title": "Portraits Prompt 24",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 475,
+    "title": "Portraits Prompt 25",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 476,
+    "title": "Cars Prompt 26",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 477,
+    "title": "Cars Prompt 27",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 478,
+    "title": "Cars Prompt 28",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 479,
+    "title": "Cars Prompt 29",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 480,
+    "title": "Cars Prompt 30",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 481,
+    "title": "Architecture Prompt 31",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 482,
+    "title": "Architecture Prompt 32",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 483,
+    "title": "Architecture Prompt 33",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 484,
+    "title": "Architecture Prompt 34",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 485,
+    "title": "Architecture Prompt 35",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 486,
+    "title": "Space Prompt 36",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 487,
+    "title": "Space Prompt 37",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 488,
+    "title": "Space Prompt 38",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 489,
+    "title": "Space Prompt 39",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 490,
+    "title": "Space Prompt 40",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 491,
+    "title": "Trending Prompt 41",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 492,
+    "title": "Trending Prompt 42",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 493,
+    "title": "Trending Prompt 43",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 494,
+    "title": "Trending Prompt 44",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 495,
+    "title": "Trending Prompt 45",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 496,
+    "title": "1980s Retro Prompt 46",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 497,
+    "title": "1980s Retro Prompt 47",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 498,
+    "title": "1980s Retro Prompt 48",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 499,
+    "title": "1980s Retro Prompt 49",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 500,
+    "title": "1980s Retro Prompt 50",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 501,
+    "title": "Gaming Prompt 01",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 502,
+    "title": "Gaming Prompt 02",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 503,
+    "title": "Gaming Prompt 03",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 504,
+    "title": "Gaming Prompt 04",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 505,
+    "title": "Gaming Prompt 05",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 506,
+    "title": "Cyberpunk Prompt 06",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 507,
+    "title": "Cyberpunk Prompt 07",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 508,
+    "title": "Cyberpunk Prompt 08",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 509,
+    "title": "Cyberpunk Prompt 09",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 510,
+    "title": "Cyberpunk Prompt 10",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 511,
+    "title": "Fantasy Prompt 11",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 512,
+    "title": "Fantasy Prompt 12",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 513,
+    "title": "Fantasy Prompt 13",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 514,
+    "title": "Fantasy Prompt 14",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 515,
+    "title": "Fantasy Prompt 15",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 516,
+    "title": "Horror Prompt 16",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 517,
+    "title": "Horror Prompt 17",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 518,
+    "title": "Horror Prompt 18",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 519,
+    "title": "Horror Prompt 19",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 520,
+    "title": "Horror Prompt 20",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 521,
+    "title": "Nature Prompt 21",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 522,
+    "title": "Nature Prompt 22",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 523,
+    "title": "Nature Prompt 23",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 524,
+    "title": "Nature Prompt 24",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 525,
+    "title": "Nature Prompt 25",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 526,
+    "title": "Portraits Prompt 26",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 527,
+    "title": "Portraits Prompt 27",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 528,
+    "title": "Portraits Prompt 28",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 529,
+    "title": "Portraits Prompt 29",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 530,
+    "title": "Portraits Prompt 30",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 531,
+    "title": "Cars Prompt 31",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 532,
+    "title": "Cars Prompt 32",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 533,
+    "title": "Cars Prompt 33",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 534,
+    "title": "Cars Prompt 34",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 535,
+    "title": "Cars Prompt 35",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 536,
+    "title": "Architecture Prompt 36",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 537,
+    "title": "Architecture Prompt 37",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 538,
+    "title": "Architecture Prompt 38",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 539,
+    "title": "Architecture Prompt 39",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 540,
+    "title": "Architecture Prompt 40",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 541,
+    "title": "Space Prompt 41",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 542,
+    "title": "Space Prompt 42",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 543,
+    "title": "Space Prompt 43",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 544,
+    "title": "Space Prompt 44",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 545,
+    "title": "Space Prompt 45",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 546,
+    "title": "Trending Prompt 46",
+    "category": "Trending",
+    "prompt": "viral cinematic 1980s nostalgia scene, retro clothing, vintage camera look, warm film grain, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 547,
+    "title": "Trending Prompt 47",
+    "category": "Trending",
+    "prompt": "modern social-media style portrait with dramatic neon lighting, premium editorial photography, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 548,
+    "title": "Trending Prompt 48",
+    "category": "Trending",
+    "prompt": "AI-era futuristic city with holograms, glowing streets, cinematic viral visual aesthetic, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 549,
+    "title": "Trending Prompt 49",
+    "category": "Trending",
+    "prompt": "dreamy sunset beach scene with a lone person, soft orange sky, cinematic photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 550,
+    "title": "Trending Prompt 50",
+    "category": "Trending",
+    "prompt": "high-energy gaming thumbnail scene, heroic character, glowing effects, dramatic composition, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 551,
+    "title": "1980s Retro Prompt 01",
+    "category": "1980s Retro",
+    "prompt": "1980s Indian street at night, neon shop signs, vintage cars, cinematic film grain, warm tungsten light, realistic photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 552,
+    "title": "1980s Retro Prompt 02",
+    "category": "1980s Retro",
+    "prompt": "1980s arcade room, glowing CRT screens, teenagers gaming, retro neon lights, cinematic 35mm photography, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 553,
+    "title": "1980s Retro Prompt 03",
+    "category": "1980s Retro",
+    "prompt": "1980s Mumbai street scene during monsoon, classic scooters, colorful signs, analog film texture, realistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 554,
+    "title": "1980s Retro Prompt 04",
+    "category": "1980s Retro",
+    "prompt": "1980s cyberpunk bedroom, cassette player, CRT computer, purple neon, moody cinematic lighting, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 555,
+    "title": "1980s Retro Prompt 05",
+    "category": "1980s Retro",
+    "prompt": "1980s fashion portrait, denim jacket, dramatic studio flash, film grain, authentic vintage photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 556,
+    "title": "Gaming Prompt 06",
+    "category": "Gaming",
+    "prompt": "epic futuristic gaming room, triple monitors, RGB lights, powerful PC, cinematic atmosphere, ultra detailed, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 557,
+    "title": "Gaming Prompt 07",
+    "category": "Gaming",
+    "prompt": "battle royale hero standing on a rooftop at sunset, dramatic clouds, game cinematic, high detail, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 558,
+    "title": "Gaming Prompt 08",
+    "category": "Gaming",
+    "prompt": "dark horror game corridor, flickering lights, fog, abandoned hospital, cinematic suspense, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 559,
+    "title": "Gaming Prompt 09",
+    "category": "Gaming",
+    "prompt": "fantasy RPG warrior in a glowing forest, armor reflections, magical particles, cinematic game art, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 560,
+    "title": "Gaming Prompt 10",
+    "category": "Gaming",
+    "prompt": "speed racing game scene, supercar drifting through neon city streets, motion blur, cinematic, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 561,
+    "title": "Cyberpunk Prompt 11",
+    "category": "Cyberpunk",
+    "prompt": "rainy cyberpunk megacity at midnight, neon signs, reflections, flying cars, cinematic 8k look, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 562,
+    "title": "Cyberpunk Prompt 12",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk hacker desk, holographic screens, dark room, blue and magenta glow, cinematic realism, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 563,
+    "title": "Cyberpunk Prompt 13",
+    "category": "Cyberpunk",
+    "prompt": "futuristic street food market, neon umbrellas, rain, crowds, atmospheric photography, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 564,
+    "title": "Cyberpunk Prompt 14",
+    "category": "Cyberpunk",
+    "prompt": "android detective walking through a neon alley, volumetric fog, dramatic rim light, movie still, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 565,
+    "title": "Cyberpunk Prompt 15",
+    "category": "Cyberpunk",
+    "prompt": "cyberpunk motorcycle speeding through a futuristic city, light trails, wet road, dynamic composition, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 566,
+    "title": "Fantasy Prompt 16",
+    "category": "Fantasy",
+    "prompt": "ancient fantasy castle on a mountain, sunrise, waterfalls, misty valley, epic cinematic landscape, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 567,
+    "title": "Fantasy Prompt 17",
+    "category": "Fantasy",
+    "prompt": "young wizard holding a glowing blue spell, enchanted forest, magical particles, detailed fantasy art, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 568,
+    "title": "Fantasy Prompt 18",
+    "category": "Fantasy",
+    "prompt": "dragon flying above snowy mountains, golden sunset, dramatic clouds, epic fantasy illustration, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 569,
+    "title": "Fantasy Prompt 19",
+    "category": "Fantasy",
+    "prompt": "mystical temple hidden in jungle, glowing runes, fog, cinematic adventure scene, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 570,
+    "title": "Fantasy Prompt 20",
+    "category": "Fantasy",
+    "prompt": "warrior princess on a cliff overlooking a fantasy kingdom, sunrise, detailed cinematic concept art, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 571,
+    "title": "Horror Prompt 21",
+    "category": "Horror",
+    "prompt": "abandoned haunted house at midnight, broken windows, thick fog, moonlight, cinematic horror, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 572,
+    "title": "Horror Prompt 22",
+    "category": "Horror",
+    "prompt": "creepy empty school hallway, flickering fluorescent lights, deep shadows, unsettling atmosphere, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 573,
+    "title": "Horror Prompt 23",
+    "category": "Horror",
+    "prompt": "old forest cabin surrounded by fog, one warm window, moon behind clouds, horror movie still, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 574,
+    "title": "Horror Prompt 24",
+    "category": "Horror",
+    "prompt": "eerie carnival at night, empty rides, red lights, fog, unsettling cinematic composition, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 575,
+    "title": "Horror Prompt 25",
+    "category": "Horror",
+    "prompt": "ancient doll sitting in a dark room, candlelight, cracked walls, atmospheric horror photography, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 576,
+    "title": "Nature Prompt 26",
+    "category": "Nature",
+    "prompt": "misty Himalayan valley at sunrise, dramatic mountains, golden light, ultra detailed landscape photography, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 577,
+    "title": "Nature Prompt 27",
+    "category": "Nature",
+    "prompt": "tropical waterfall surrounded by lush jungle, soft morning rays, cinematic nature photography, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 578,
+    "title": "Nature Prompt 28",
+    "category": "Nature",
+    "prompt": "peaceful lake reflecting snowy mountains, pink sunrise sky, high dynamic range photography, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 579,
+    "title": "Nature Prompt 29",
+    "category": "Nature",
+    "prompt": "giant ancient tree in a glowing forest, fireflies, magical atmosphere, detailed nature scene, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 580,
+    "title": "Nature Prompt 30",
+    "category": "Nature",
+    "prompt": "desert dunes under a star-filled Milky Way, moonlight, cinematic astrophotography, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 581,
+    "title": "Portraits Prompt 31",
+    "category": "Portraits",
+    "prompt": "cinematic close-up portrait of a young man, soft window light, natural skin texture, 85mm lens, wide cinematic composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 582,
+    "title": "Portraits Prompt 32",
+    "category": "Portraits",
+    "prompt": "fashion portrait in a neon city, dramatic rim lighting, shallow depth of field, editorial photography, vertical 9:16 composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 583,
+    "title": "Portraits Prompt 33",
+    "category": "Portraits",
+    "prompt": "traditional Indian portrait, elegant clothing, warm golden light, realistic skin and fabric details, close-up composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 584,
+    "title": "Portraits Prompt 34",
+    "category": "Portraits",
+    "prompt": "mysterious portrait with half the face in shadow, cinematic lighting, dark background, high detail, dramatic low-angle shot, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 585,
+    "title": "Portraits Prompt 35",
+    "category": "Portraits",
+    "prompt": "street photography portrait in rain, reflections, natural expression, authentic film grain, symmetrical composition, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 586,
+    "title": "Cars Prompt 36",
+    "category": "Cars",
+    "prompt": "classic 1980s sports car parked under neon lights, wet street reflections, cinematic photography, shallow depth of field, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 587,
+    "title": "Cars Prompt 37",
+    "category": "Cars",
+    "prompt": "futuristic electric supercar on a mountain road at sunrise, dramatic clouds, photorealistic, golden-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 588,
+    "title": "Cars Prompt 38",
+    "category": "Cars",
+    "prompt": "luxury black sedan in a rainy downtown street, reflections, cinematic night photography, blue-hour lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 589,
+    "title": "Cars Prompt 39",
+    "category": "Cars",
+    "prompt": "off-road SUV crossing a desert at golden hour, dust trail, dramatic wide-angle photography, volumetric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 590,
+    "title": "Cars Prompt 40",
+    "category": "Cars",
+    "prompt": "retro Indian Ambassador car on a 1980s city street, authentic period details, film photography, soft rim lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 591,
+    "title": "Architecture Prompt 41",
+    "category": "Architecture",
+    "prompt": "futuristic glass skyscraper surrounded by mist, sunrise reflections, architectural photography, 35mm film look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 592,
+    "title": "Architecture Prompt 42",
+    "category": "Architecture",
+    "prompt": "abandoned brutalist building covered in vines, overcast sky, cinematic urban exploration, 50mm lens look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 593,
+    "title": "Architecture Prompt 43",
+    "category": "Architecture",
+    "prompt": "luxury modern villa beside an infinity pool at sunset, warm interior lights, photorealistic, 85mm portrait lens, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 594,
+    "title": "Architecture Prompt 44",
+    "category": "Architecture",
+    "prompt": "ancient Indian palace courtyard, intricate architecture, morning light, highly detailed photography, anamorphic movie look, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 595,
+    "title": "Architecture Prompt 45",
+    "category": "Architecture",
+    "prompt": "minimalist Japanese house in a snowy forest, soft light, peaceful architectural composition, subtle film grain, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 596,
+    "title": "Space Prompt 46",
+    "category": "Space",
+    "prompt": "astronaut standing on an alien planet beneath a giant ringed planet, cinematic sci-fi landscape, high contrast cinematic grade, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 597,
+    "title": "Space Prompt 47",
+    "category": "Space",
+    "prompt": "futuristic space station orbiting Earth, sunrise over the planet, ultra detailed cinematic render, moody atmospheric lighting, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 598,
+    "title": "Space Prompt 48",
+    "category": "Space",
+    "prompt": "moon base city at night, glowing windows, astronauts walking, realistic science fiction concept art, ultra-detailed textures, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 599,
+    "title": "Space Prompt 49",
+    "category": "Space",
+    "prompt": "spaceship traveling through a colorful nebula, stars and cosmic dust, epic cinematic composition, photorealistic finish, clean composition, realistic details, no text, no watermark"
+  },
+  {
+    "id": 600,
+    "title": "Space Prompt 50",
+    "category": "Space",
+    "prompt": "Mars colony at sunset, domes glowing in the distance, realistic futuristic exploration scene, premium editorial finish, clean composition, realistic details, no text, no watermark"
+  }
+]

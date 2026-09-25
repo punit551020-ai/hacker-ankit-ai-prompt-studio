@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HACKER ANKIT - AI Image Prompt Studio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #0a0a0c;
+            color: #ffffff;
+            overflow-x: hidden;
+        }
+
+        /* --- INTRO SCREEN ANIMATION --- */
+        #intro-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: #050508;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            transition: opacity 0.8s ease, visibility 0.8s;
+        }
+
+        /* Animated Title: HACKER ANKIT */
+        .glitch-title {
+            font-size: 4rem;
+            font-weight: 900;
+            letter-spacing: 5px;
+            color: #00ffcc;
+            text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 40px #0088ff;
+            animation: textPulse 2s infinite alternate, floatText 3s ease-in-out infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes textPulse {
+            0% { text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; }
+            100% { text-shadow: 0 0 20px #ff007f, 0 0 40px #ff007f; color: #ff007f; }
+        }
+
+        @keyframes floatText {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* Demo Animation Banner (Follow AI style) */
+        .demo-animation-container {
+            width: 80%;
+            max-width: 700px;
+            height: 300px;
+            border-radius: 15px;
+            overflow: hidden;
+            border: 2px solid #00ffcc;
+            box-shadow: 0 0 30px rgba(0, 255, 204, 0.3);
+            position: relative;
+            margin-bottom: 30px;
+            background: #111;
+        }
+
+        .demo-slider {
+            display: flex;
+            width: 300%;
+            height: 100%;
+            animation: slideDemo 9s infinite ease-in-out;
+        }
+
+        .demo-slide {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .demo-slide::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .demo-text {
+            position: relative;
+            z-index: 2;
+            font-size: 1.5rem;
+            font-weight: bold;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 10px 20px;
+            border-radius: 8px;
+            border: 1px solid #00ffcc;
+        }
+
+        @keyframes slideDemo {
+            0%, 30% { transform: translateX(0%); }
+            33%, 63% { transform: translateX(-33.33%); }
+            66%, 96% { transform: translateX(-66.66%); }
+        }
+
+        /* Enter Button */
+        .enter-btn {
+            padding: 15px 40px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #000;
+            background: #00ffcc;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            box-shadow: 0 0 20px #00ffcc;
+            transition: all 0.3s ease;
+        }
+
+        .enter-btn:hover {
+            background: #ff007f;
+            color: #fff;
+            box-shadow: 0 0 30px #ff007f;
+            transform: scale(1.05);
+        }
+
+        /* --- MAIN DASHBOARD --- */
+        header {
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #222;
+            background: #0d0d12;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        header h1 {
+            color: #00ffcc;
+            margin-bottom: 15px;
+            font-size: 2rem;
+        }
+
+        .search-box {
+            width: 90%;
+            max-width: 600px;
+            padding: 12px 20px;
+            border-radius: 25px;
+            border: 1px solid #333;
+            background: #1a1a24;
+            color: #fff;
+            font-size: 1rem;
+            outline: none;
+            transition: 0.3s;
+        }
+
+        .search-box:focus {
+            border-color: #00ffcc;
+            box-shadow: 0 0 10px rgba(0, 255, 204, 0.5);
+        }
+
+        /* Prompts Grid */
+        .main-container {
+            padding: 30px 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .card {
+            background: #14141e;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #222;
+            transition: transform 0.3s, border-color 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: #00ffcc;
+        }
+
+        .card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: #222;
+        }
+
+        .card-body {
+            padding: 15px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .prompt-text {
+            font-size: 0.9rem;
+            color: #ccc;
+            margin-bottom: 15px;
+            line-height: 1.4;
+            max-height: 80px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .copy-btn {
+            width: 100%;
+            padding: 10px;
+            background: #1e1e2e;
+            color: #00ffcc;
+            border: 1px solid #00ffcc;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .copy-btn:hover {
+            background: #00ffcc;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- INTRO ANIMATION SCREEN -->
+    <div id="intro-screen">
+        <h1 class="glitch-title">HACKER ANKIT</h1>
+        
+        <div class="demo-animation-container">
+            <div class="demo-slider">
+                <div class="demo-slide" style="background-image: url('https://picsum.photos/800/400?random=1');">
+                    <div class="demo-text">1. Choose & Copy Prompt</div>
+                </div>
+                <div class="demo-slide" style="background-image: url('https://picsum.photos/800/400?random=2');">
+                    <div class="demo-text">2. Paste in Gemini / Midjourney</div>
+                </div>
+                <div class="demo-slide" style="background-image: url('https://picsum.photos/800/400?random=3');">
+                    <div class="demo-text">3. Get HD AI Images Instantly!</div>
+                </div>
+            </div>
+        </div>
+
+        <button class="enter-btn" onclick="enterWebsite()">EXPLORE ALL PROMPTS</button>
+    </div>
+
+    <!-- MAIN WEBSITE -->
+    <header>
+        <h1>HACKER ANKIT AI STUDIO</h1>
+        <input type="text" class="search-box" id="searchInput" onkeyup="filterPrompts()" placeholder="Search 600+ AI Prompts (Cyberpunk, Fantasy, Cars...)...">
+    </header>
+
+    <div class="main-container">
+        <div class="grid" id="promptGrid">
+            <!-- Dynamic Cards Will Be Generated Here -->
+        </div>
+    </div>
+
+    <script>
+        // Intro Hide Function
+        function enterWebsite() {
+            const intro = document.getElementById('intro-screen');
+            intro.style.opacity = '0';
+            setTimeout(() => {
+                intro.style.display = 'none';
+            }, 800);
+        }
+
+        // Sample Prompts Data (Expanded dynamically)
+        const prompts = [
+            { id: 1, title: "Cyberpunk City", prompt: "A futuristic cyberpunk city at night with neon signs, wet streets reflecting glowing lights, ultra-detailed 8k resolution, cinematic lighting.", image: "https://picsum.photos/400/300?random=10" },
+            { id: 2, title: "Fantasy Dragon", prompt: "A majestic dark fantasy dragon breathing blue fire on top of a snowy mountain, dramatic sky, photorealistic details.", image: "https://picsum.photos/400/300?random=11" },
+            { id: 3, title: "Retro 80s Car", prompt: "A neon retro sports car driving on an endless grid highway under a glowing synthwave sun, 1980s aesthetic.", image: "https://picsum.photos/400/300?random=12" },
+            { id: 4, title: "Space Astronaut", prompt: "An astronaut floating in deep space with vibrant galaxies and nebulae reflecting on the helmet visor, highly detailed.", image: "https://picsum.photos/400/300?random=13" },
+            { id: 5, title: "Neon Portrait", prompt: "A portrait of a young cyber warrior with glowing face tattoos, neon ambient lighting, cinematic photography.", image: "https://picsum.photos/400/300?random=14" },
+            { id: 6, title: "Ancient Temple", prompt: "Overgrown ancient jungle temple with golden sunlight filtering through misty trees, adventure style render.", image: "https://picsum.photos/400/300?random=15" }
+        ];
+
+        // Generate Cards Automatically
+        const grid = document.getElementById('promptGrid');
+
+        function loadCards(data) {
+            grid.innerHTML = '';
+            data.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <img src="${item.image}" alt="${item.title}">
+                    <div class="card-body">
+                        <p class="prompt-text">${item.prompt}</p>
+                        <button class="copy-btn" onclick="copyText('${item.prompt}', this)">Copy Prompt</button>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Copy Function
+        function copyText(text, btn) {
+            navigator.clipboard.writeText(text);
+            const originalText = btn.innerText;
+            btn.innerText = "COPIED! ✓";
+            btn.style.background = "#00ffcc";
+            btn.style.color = "#000";
+            
+            setTimeout(() => {
+                btn.innerText = originalText;
+                btn.style.background = "#1e1e2e";
+                btn.style.color = "#00ffcc";
+            }, 2000);
+        }
+
+        // Search Filter
+        function filterPrompts() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = prompts.filter(p => p.prompt.toLowerCase().includes(query) || p.title.toLowerCase().includes(query));
+            loadCards(filtered);
+        }
+
+        // Initial Load
+        loadCards(prompts);
+    </script>
+</body>
+</html>
